@@ -48,6 +48,7 @@ BOARD_HAVE_SQN_WIMAX := true
 
 # Kernel Details
 TARGET_KERNEL_CONFIG := shooter_defconfig
+TARGET_KERNEL_SOURCE := kernel/htc/shooter
 
 # Camera
 TARGET_DISABLE_ARM_PIE := true
